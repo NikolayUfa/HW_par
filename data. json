@@ -1,0 +1,56 @@
+[
+    {
+        "city": "Москва, Таганская",
+        "company": "amoCRM",
+        "salary": "30 000 – 60 000 ₽",
+        "link": "https://spb.hh.ru/vacancy/88023920?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python"
+    },
+    {
+        "city": "Москва",
+        "company": "Точка",
+        "salary": "до 420 000 ₽",
+        "link": "https://spb.hh.ru/vacancy/86085894?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python"
+    },
+    {
+        "city": "Москва",
+        "company": "",
+        "salary": "300 000 – 400 000 ₽",
+        "link": "https://spb.hh.ru/vacancy/88407518?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python"
+    },
+    {
+        "city": "Москва",
+        "company": "ООО ГАЗПРОМ СПКА",
+        "salary": "до 145 000 ₽",
+        "link": "https://spb.hh.ru/vacancy/88467201?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python"
+    },
+    {
+        "city": "Москва, Нижегородская",
+        "company": "ООО Авангард",
+        "salary": "100 000 – 150 000 ₽",
+        "link": "https://spb.hh.ru/vacancy/88057215?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python"
+    },
+    {
+        "city": "Москва, Окружная",
+        "company": "ООО АВ Софт",
+        "salary": "до 300 000 ₽",
+        "link": "https://spb.hh.ru/vacancy/87288159?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python"
+    },
+    {
+        "city": "Санкт-Петербург",
+        "company": "ИП Антонов Петр Анатольевич",
+        "salary": "от 150 000 ₽",
+        "link": "https://spb.hh.ru/vacancy/88099262?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python"
+    },
+    {
+        "city": "Москва",
+        "company": "Human Capital",
+        "salary": "от 150 000 ₽",
+        "link": "https://spb.hh.ru/vacancy/87674219?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python"
+    },
+    {
+        "city": "Москва",
+        "company": "Gooroo",
+        "salary": "до 270 000 ₽",
+        "link": "https://spb.hh.ru/vacancy/88060469?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python"
+    }
+]
